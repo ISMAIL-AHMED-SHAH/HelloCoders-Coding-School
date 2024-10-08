@@ -1,0 +1,154 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Introduction to JavaScript",
+      "slug": "introduction-to-javascript",
+      "description": "Learn the fundamentals of JavaScript, the language of the web, and start building interactive web applications.",
+      "price": 1099.99,
+      "instructor": "Ismail Ahmed Shah",
+      "isFeatured": true,
+      "image": "/courses/javascript.jpg"
+    },
+    {
+      "id": 2,
+      "title": "HTML & CSS Basics",
+      "slug": "html-css-basics",
+      "description": "Get started with web development by mastering HTML and CSS, the building blocks of the web.",
+      "price": 1089.99,
+      "instructor": "Hammad Ansari",
+      "isFeatured": false,
+      "image": "/courses/html-css.jpg"
+    },
+    {
+      "id": 3,
+      "title": "React for Beginners",
+      "slug": "react-for-beginners",
+      "description": "Dive into React and learn how to create dynamic user interfaces with this powerful JavaScript library.",
+      "price": 1129.99,
+      "instructor": "Naimal Salahuddin",
+      "isFeatured": true,
+      "image": "/courses/react.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Python Programming Essentials",
+      "slug": "python-programming-essentials",
+      "description": "Master the basics of Python programming and discover its applications in web development, data analysis, and more.",
+      "price": 1109.99,
+      "instructor": "Sikandar Shah",
+      "isFeatured": false,
+      "image": "/courses/python.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Advanced CSS Techniques",
+      "slug": "advanced-css-techniques",
+      "description": "Enhance your CSS skills with advanced techniques including animations, transitions, and responsive design.",
+      "price": 1119.99,
+      "instructor": "Kanwal Heer",
+      "isFeatured": true,
+      "image": "/courses/advanced-css.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Node.js and Express",
+      "slug": "nodejs-express",
+      "description": "Build fast and scalable server-side applications using Node.js and Express in this comprehensive course.",
+      "price": 1139.99,
+      "instructor": "Fiza Khan",
+      "isFeatured": false,
+      "image": "/courses/nodejs.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Data Structures and Algorithms",
+      "slug": "data-structures-algorithms",
+      "description": "Learn essential data structures and algorithms to enhance your programming skills and problem-solving abilities.",
+      "price": 1149.99,
+      "instructor": "Kanwal Heer",
+      "isFeatured": true,
+      "image": "/courses/data-structures.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Introduction to SQL",
+      "slug": "introduction-to-sql",
+      "description": "Understand the basics of SQL and learn how to manage databases effectively with this introductory course.",
+      "price": 199.99,
+      "instructor": "Zoya Atif",
+      "isFeatured": false,
+      "image": "/courses/sql.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Mobile App Development with Flutter",
+      "slug": "mobile-app-development-flutter",
+      "description": "Create beautiful, natively compiled applications for mobile, web, and desktop from a single codebase using Flutter.",
+      "price": 1159.99,
+      "instructor": "Nida Rizwan",
+      "isFeatured": true,
+      "image": "/courses/flutter.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Cybersecurity Basics",
+      "slug": "cybersecurity-basics",
+      "description": "Learn the fundamental concepts of cybersecurity and how to protect systems and data from cyber threats.",
+      "price": 1119.99,
+      "instructor": "Ismail Ahmed Shah",
+      "isFeatured": false,
+      "image": "/courses/cybersecurity.jpg"
+    },
+    {
+      "id": 11,
+      "title": "TypeScript for Beginners",
+      "slug": "typescript-for-beginners",
+      "description": "Get started with TypeScript, the typed superset of JavaScript, and learn how to build robust applications.",
+      "price": 1109.99,
+      "instructor": "Ismail Ahmed Shah",
+      "isFeatured": true,
+      "image": "/courses/typescript.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Building Applications with Next.js",
+      "slug": "building-applications-with-nextjs",
+      "description": "Discover how to create powerful web applications using Next.js, a React framework for production.",
+      "price": 1139.99,
+      "instructor": "Naimal Salahuddin",
+      "isFeatured": true,
+      "image": "/courses/nextjs.jpg"
+    },
+    {
+      "id": 13,
+      "title": "React Native for Mobile Development",
+      "slug": "react-native-for-mobile-development",
+      "description": "Learn to build mobile applications using React Native and create cross-platform apps with ease.",
+      "price": 1149.99,
+      "instructor": "Iqra Shah",
+      "isFeatured": false,
+      "image": "/courses/react-native.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Introduction to Git and GitHub",
+      "slug": "introduction-to-git-github",
+      "description": "Master version control with Git and GitHub, and learn how to collaborate on projects effectively.",
+      "price": 189.99,
+      "instructor": "Nida Rizwan",
+      "isFeatured": false,
+      "image": "/courses/git.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Web Accessibility Fundamentals",
+      "slug": "web-accessibility-fundamentals",
+      "description": "Learn the principles of web accessibility and how to create inclusive web experiences for all users.",
+      "price": 199.99,
+      "instructor": "Farhan Khan",
+      "isFeatured": true,
+      "image": "/courses/accessibility.jpg"
+    }
+  ]
+}
