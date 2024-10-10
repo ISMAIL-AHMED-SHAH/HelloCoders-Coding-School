@@ -60,9 +60,10 @@ function Instructors() {
     <div className="relative h-[40rem] overflow-hidden flex items-center justify-center">
       <WavyBackground className="w-full max-w-7xl mx-auto flex flex-col items-center h-full"
       >
-            <h2 className="text-2xl md:text-4xl lg:text-7xl text-white font-bold text-center mt-36">
-                Meet Our Instructors
-            </h2>
+            <h2 className="text-2xl md:text-4xl lg:text-7xl font-bold text-center mt-36 bg-gradient-to-r from-purple-600 via-blue-400 to-pink-500 bg-clip-text text-transparent">
+    Meet Our Instructors
+</h2>
+
             <p className="text-base md:text-lg text-blue-200 text-center  mt-4">Discover the talented professionals who will guide your coding Journey</p>
             <div className="flex flex-row items-center justify-center mb-19 w-full">
                 <AnimatedTooltip items={mentors}/>

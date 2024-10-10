@@ -1,6 +1,6 @@
 'use client';
 
-import { FaLinkedin, FaGithub, FaWhatsapp } from 'react-icons/fa'; // Import icons from react-icons
+import { FaLinkedin, FaGithub, FaWhatsapp, FaInstagram } from 'react-icons/fa'; // Import icons from react-icons
 
 function Footer() {
   return (
@@ -23,6 +23,12 @@ function Footer() {
             <a href="https://wa.me/+923322241405" target="_blank" rel="noopener noreferrer" className="flex items-center">
               <FaWhatsapp className="text-2xl mr-2" />
               <span>WhatsApp</span>
+            </a>
+          </div>
+          <div className="flex items-center">
+            <a href="https://www.instagram.com/ahmedshahismail?igsh=YzljYTk1ODg3Zg==" target="_blank" rel="noopener noreferrer" className="flex items-center">
+              <FaInstagram className="text-2xl mr-2" />
+              <span>Instagram</span>
             </a>
           </div>
         </div>
