@@ -51,7 +51,7 @@ const mentors = [
       name: "Okasha Khan",
       designation: "Project Incharge",
       image:
-        "https://avatars.githubusercontent.com/u/159659680?v=4",
+        "https://media.licdn.com/dms/image/v2/D4D03AQEK6LkMORru_A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1707429703778?e=1733961600&v=beta&t=nZOhCsA-6r5vLj9nPIKxHwP_pjew9un1Sv-g869C8Wk",
     },
   ];
 
