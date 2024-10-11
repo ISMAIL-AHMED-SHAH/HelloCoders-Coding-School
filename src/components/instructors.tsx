@@ -60,7 +60,7 @@ function Instructors() {
     <div className="relative h-[40rem] overflow-hidden flex items-center justify-center">
       <WavyBackground className="w-full max-w-7xl mx-auto flex flex-col items-center h-full"
       >
-            <h2 className="text-2xl md:text-4xl lg:text-7xl font-bold text-center mt-36 bg-gradient-to-r from-purple-600 via-blue-400 to-pink-500 bg-clip-text text-transparent">
+            <h2 className="text-2xl md:text-4xl lg:text-7xl font-bold text-center mt-36 bg-gradient-to-r from-purple-600  to-blue-500 bg-clip-text text-transparent">
     Meet Our Instructors
 </h2>
 
