@@ -8,7 +8,7 @@
       "price": 99.99,
       "instructor": "Ismail Ahmed Shah",
       "isFeatured": true,
-      "image": "/images/introductiontoJavaScript.jpg"
+      "image": "/images/Introduction-to-JavaScript.webp"
     },
     {
       "id": 2,
@@ -22,6 +22,16 @@
     },
     {
       "id": 3,
+      "title": "TypeScript for Beginners",
+      "slug": "typescript-for-beginners",
+      "description": "Get started with TypeScript, the typed superset of JavaScript, and learn how to build robust applications.",
+      "price": 99.99,
+      "instructor": "Filza Sultana",
+      "isFeatured": true,
+      "image": "/images/typescript.jpeg"
+    },
+    {
+      "id": 4,
       "title": "React for Beginners",
       "slug": "react-for-beginners",
       "description": "Dive into React and learn how to create dynamic user interfaces with this powerful JavaScript library.",
@@ -29,16 +39,6 @@
       "instructor": "Naimal Salahuddin",
       "isFeatured": true,
       "image": "/images/React.png"
-    },
-    {
-      "id": 4,
-      "title": "Python Programming Essentials",
-      "slug": "python-programming-essentials",
-      "description": "Master the basics of Python programming and discover its applications in web development, data analysis, and more.",
-      "price": 99.99,
-      "instructor": "Sikandar Shah",
-      "isFeatured": false,
-      "image": "/images/python.png"
     },
     {
       "id": 5,
@@ -102,13 +102,13 @@
     },
     {
       "id": 11,
-      "title": "TypeScript for Beginners",
-      "slug": "typescript-for-beginners",
-      "description": "Get started with TypeScript, the typed superset of JavaScript, and learn how to build robust applications.",
+      "title": "Python Programming Essentials",
+      "slug": "python-programming-essentials",
+      "description": "Master the basics of Python programming and discover its applications in web development, data analysis, and more.",
       "price": 99.99,
-      "instructor": "Filza Sultana",
-      "isFeatured": true,
-      "image": "/images/typescript.jpeg"
+      "instructor": "Sikandar Shah",
+      "isFeatured": false,
+      "image": "/images/python.png"
     },
     {
       "id": 12,
