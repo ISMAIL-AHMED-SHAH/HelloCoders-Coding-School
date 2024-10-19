@@ -8,7 +8,7 @@
       "price": 1099.99,
       "instructor": "Ismail Ahmed Shah",
       "isFeatured": true,
-      "image": "/courses/javascript.jpg"
+      "image": "/images/introductiontoJavaScript.jpg"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "price": 1089.99,
       "instructor": "Hammad Ansari",
       "isFeatured": false,
-      "image": "/courses/html-css.jpg"
+      "image": "/images/HTMLCSS.webp"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "price": 1129.99,
       "instructor": "Naimal Salahuddin",
       "isFeatured": true,
-      "image": "/courses/react.jpg"
+      "image": "/images/React.png"
     },
     {
       "id": 4,
@@ -38,17 +38,17 @@
       "price": 1109.99,
       "instructor": "Sikandar Shah",
       "isFeatured": false,
-      "image": "/courses/python.jpg"
+      "image": "/images/python.png"
     },
     {
       "id": 5,
-      "title": "Advanced CSS Techniques",
+      "title": "Advanced CSS Techniques (Tailwind CSS)",
       "slug": "advanced-css-techniques",
-      "description": "Enhance your CSS skills with advanced techniques including animations, transitions, and responsive design.",
+      "description": "Enhance your CSS skills with advanced techniques including animations, transitions, and responsive design with Tailwind CSS.",
       "price": 1119.99,
-      "instructor": "Kanwal Heer",
+      "instructor": "Fatima Nazia",
       "isFeatured": true,
-      "image": "/courses/advanced-css.jpg"
+      "image": "images/tailwindcss.png"
     },
     {
       "id": 6,
@@ -58,7 +58,7 @@
       "price": 1139.99,
       "instructor": "Fiza Khan",
       "isFeatured": false,
-      "image": "/courses/nodejs.jpg"
+      "image": "/images/ExpressNode.png"
     },
     {
       "id": 7,
@@ -68,7 +68,7 @@
       "price": 1149.99,
       "instructor": "Kanwal Heer",
       "isFeatured": true,
-      "image": "/courses/data-structures.jpg"
+      "image": "/images/DSA.png"
     },
     {
       "id": 8,
@@ -76,9 +76,9 @@
       "slug": "introduction-to-sql",
       "description": "Understand the basics of SQL and learn how to manage databases effectively with this introductory course.",
       "price": 199.99,
-      "instructor": "Zoya Atif",
+      "instructor": "Zoya Shah",
       "isFeatured": false,
-      "image": "/courses/sql.jpg"
+      "image": "/images/Introduction-to-SQL.png"
     },
     {
       "id": 9,
@@ -88,7 +88,7 @@
       "price": 1159.99,
       "instructor": "Nida Rizwan",
       "isFeatured": true,
-      "image": "/courses/flutter.jpg"
+      "image": "/images/create-Hybrid-apps.jpg"
     },
     {
       "id": 10,
@@ -98,7 +98,7 @@
       "price": 1119.99,
       "instructor": "Ismail Ahmed Shah",
       "isFeatured": false,
-      "image": "/courses/cybersecurity.jpg"
+      "image": "/images/cybersecurity.jpeg"
     },
     {
       "id": 11,
@@ -106,9 +106,9 @@
       "slug": "typescript-for-beginners",
       "description": "Get started with TypeScript, the typed superset of JavaScript, and learn how to build robust applications.",
       "price": 1109.99,
-      "instructor": "Ismail Ahmed Shah",
+      "instructor": "Filza Sultana",
       "isFeatured": true,
-      "image": "/courses/typescript.jpg"
+      "image": "/images/typescript.jpeg"
     },
     {
       "id": 12,
@@ -118,7 +118,7 @@
       "price": 1139.99,
       "instructor": "Naimal Salahuddin",
       "isFeatured": true,
-      "image": "/courses/nextjs.jpg"
+      "image": "/images/nextjs.webp"
     },
     {
       "id": 13,
@@ -128,17 +128,17 @@
       "price": 1149.99,
       "instructor": "Iqra Shah",
       "isFeatured": false,
-      "image": "/courses/react-native.jpg"
+      "image": "/images/ReactNative.png"
     },
     {
       "id": 14,
       "title": "Introduction to Git and GitHub",
       "slug": "introduction-to-git-github",
       "description": "Master version control with Git and GitHub, and learn how to collaborate on projects effectively.",
-      "price": 189.99,
+      "price": 689.99,
       "instructor": "Nida Rizwan",
       "isFeatured": false,
-      "image": "/courses/git.jpg"
+      "image": "/images/git.jpg"
     },
     {
       "id": 15,
@@ -146,9 +146,26 @@
       "slug": "web-accessibility-fundamentals",
       "description": "Learn the principles of web accessibility and how to create inclusive web experiences for all users.",
       "price": 199.99,
-      "instructor": "Farhan Khan",
+      "instructor": "Furqan Khan",
       "isFeatured": true,
-      "image": "/courses/accessibility.jpg"
+      "image": "/images/accessibility.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Search Engine Optimization",
+      "slug": "search-engine-optimization",
+      "description": "Learn the principles of Search Engine Optimization (SEO) to boost your website's visibility and rankings on search engines.",
+      "price": 1999.99,
+      "instructor": "Okasha Ejaz",
+      "isFeatured": true,
+      "image": "/images/seo.webp",
+      "seo": {
+        "metaTitle": "Search Engine Optimization (SEO) Course | Boost Your Website Rankings",
+        "metaDescription": "Master Search Engine Optimization (SEO) techniques to increase your website's visibility on Google and other search engines. Learn from expert Furqan Khan.",
+        "keywords": ["Search Engine Optimization", "SEO", "Google Rankings", "Website Visibility", "SEO Techniques", "SEO Best Practices"],
+        "author": "Ismail Ahmed Shah"
+      }
     }
+    
   ]
 }

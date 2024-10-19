@@ -24,10 +24,15 @@ function Navbar({ className }: { className?: string }) {
                     setActive={setActive} active={active}
                     item="Our Courses">
                     <div className="flex flex-col space-y-4 text-sm">
-                        <HoveredLink href="/web-dev">Web Development</HoveredLink>
-                        <HoveredLink href="/interface-design">Interface Design</HoveredLink>
-                        <HoveredLink href="/seo">Search Engine Optimization</HoveredLink>
-                        <HoveredLink href="/branding">Branding</HoveredLink>
+                        <HoveredLink href="/courses">Introduction to JavaScript</HoveredLink>
+                        <HoveredLink href="/courses">HTML & CSS Basics</HoveredLink>
+                        <HoveredLink href="/courses">React for Beginners</HoveredLink>
+                        <HoveredLink href="/courses">Python Programming Essentials</HoveredLink>
+                        <HoveredLink href="/courses">Advanced CSS Techniques (Tailwind CSS)</HoveredLink>
+                        <HoveredLink href="/courses">Node.js and Express</HoveredLink>
+                        <HoveredLink href="/courses">Data Structures and Algorithms</HoveredLink>
+                        <HoveredLink href="/courses">Search Engine Optimization</HoveredLink>
+                        <HoveredLink href="/courses">Branding</HoveredLink>
                     </div>
                 </MenuItem>
                 <Link href={'/contact'}>
