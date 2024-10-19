@@ -5,7 +5,7 @@
       "title": "Introduction to JavaScript",
       "slug": "introduction-to-javascript",
       "description": "Learn the fundamentals of JavaScript, the language of the web, and start building interactive web applications.",
-      "price": 1099.99,
+      "price": 99.99,
       "instructor": "Ismail Ahmed Shah",
       "isFeatured": true,
       "image": "/images/introductiontoJavaScript.jpg"
@@ -15,7 +15,7 @@
       "title": "HTML & CSS Basics",
       "slug": "html-css-basics",
       "description": "Get started with web development by mastering HTML and CSS, the building blocks of the web.",
-      "price": 1089.99,
+      "price": 89.99,
       "instructor": "Hammad Ansari",
       "isFeatured": false,
       "image": "/images/HTMLCSS.webp"
@@ -25,7 +25,7 @@
       "title": "React for Beginners",
       "slug": "react-for-beginners",
       "description": "Dive into React and learn how to create dynamic user interfaces with this powerful JavaScript library.",
-      "price": 1129.99,
+      "price": 99.99,
       "instructor": "Naimal Salahuddin",
       "isFeatured": true,
       "image": "/images/React.png"
@@ -35,7 +35,7 @@
       "title": "Python Programming Essentials",
       "slug": "python-programming-essentials",
       "description": "Master the basics of Python programming and discover its applications in web development, data analysis, and more.",
-      "price": 1109.99,
+      "price": 99.99,
       "instructor": "Sikandar Shah",
       "isFeatured": false,
       "image": "/images/python.png"
@@ -45,7 +45,7 @@
       "title": "Advanced CSS Techniques (Tailwind CSS)",
       "slug": "advanced-css-techniques",
       "description": "Enhance your CSS skills with advanced techniques including animations, transitions, and responsive design with Tailwind CSS.",
-      "price": 1119.99,
+      "price": 79.99,
       "instructor": "Fatima Nazia",
       "isFeatured": true,
       "image": "images/tailwindcss.png"
@@ -55,7 +55,7 @@
       "title": "Node.js and Express",
       "slug": "nodejs-express",
       "description": "Build fast and scalable server-side applications using Node.js and Express in this comprehensive course.",
-      "price": 1139.99,
+      "price": 99.99,
       "instructor": "Fiza Khan",
       "isFeatured": false,
       "image": "/images/ExpressNode.png"
@@ -65,7 +65,7 @@
       "title": "Data Structures and Algorithms",
       "slug": "data-structures-algorithms",
       "description": "Learn essential data structures and algorithms to enhance your programming skills and problem-solving abilities.",
-      "price": 1149.99,
+      "price": 99.99,
       "instructor": "Kanwal Heer",
       "isFeatured": true,
       "image": "/images/DSA.png"
@@ -75,7 +75,7 @@
       "title": "Introduction to SQL",
       "slug": "introduction-to-sql",
       "description": "Understand the basics of SQL and learn how to manage databases effectively with this introductory course.",
-      "price": 199.99,
+      "price": 99.99,
       "instructor": "Zoya Shah",
       "isFeatured": false,
       "image": "/images/Introduction-to-SQL.png"
@@ -85,7 +85,7 @@
       "title": "Mobile App Development with Flutter",
       "slug": "mobile-app-development-flutter",
       "description": "Create beautiful, natively compiled applications for mobile, web, and desktop from a single codebase using Flutter.",
-      "price": 1159.99,
+      "price": 99.99,
       "instructor": "Nida Rizwan",
       "isFeatured": true,
       "image": "/images/create-Hybrid-apps.jpg"
@@ -95,7 +95,7 @@
       "title": "Cybersecurity Basics",
       "slug": "cybersecurity-basics",
       "description": "Learn the fundamental concepts of cybersecurity and how to protect systems and data from cyber threats.",
-      "price": 1119.99,
+      "price": 99.99,
       "instructor": "Ismail Ahmed Shah",
       "isFeatured": false,
       "image": "/images/cybersecurity.jpeg"
@@ -105,7 +105,7 @@
       "title": "TypeScript for Beginners",
       "slug": "typescript-for-beginners",
       "description": "Get started with TypeScript, the typed superset of JavaScript, and learn how to build robust applications.",
-      "price": 1109.99,
+      "price": 99.99,
       "instructor": "Filza Sultana",
       "isFeatured": true,
       "image": "/images/typescript.jpeg"
@@ -115,7 +115,7 @@
       "title": "Building Applications with Next.js",
       "slug": "building-applications-with-nextjs",
       "description": "Discover how to create powerful web applications using Next.js, a React framework for production.",
-      "price": 1139.99,
+      "price": 99.99,
       "instructor": "Naimal Salahuddin",
       "isFeatured": true,
       "image": "/images/nextjs.webp"
@@ -125,7 +125,7 @@
       "title": "React Native for Mobile Development",
       "slug": "react-native-for-mobile-development",
       "description": "Learn to build mobile applications using React Native and create cross-platform apps with ease.",
-      "price": 1149.99,
+      "price": 99.99,
       "instructor": "Iqra Shah",
       "isFeatured": false,
       "image": "/images/ReactNative.png"
@@ -135,7 +135,7 @@
       "title": "Introduction to Git and GitHub",
       "slug": "introduction-to-git-github",
       "description": "Master version control with Git and GitHub, and learn how to collaborate on projects effectively.",
-      "price": 689.99,
+      "price": 89.99,
       "instructor": "Nida Rizwan",
       "isFeatured": false,
       "image": "/images/git.jpg"
@@ -145,7 +145,7 @@
       "title": "Web Accessibility Fundamentals",
       "slug": "web-accessibility-fundamentals",
       "description": "Learn the principles of web accessibility and how to create inclusive web experiences for all users.",
-      "price": 199.99,
+      "price": 99.99,
       "instructor": "Furqan Khan",
       "isFeatured": true,
       "image": "/images/accessibility.jpg"
@@ -155,7 +155,7 @@
       "title": "Search Engine Optimization",
       "slug": "search-engine-optimization",
       "description": "Learn the principles of Search Engine Optimization (SEO) to boost your website's visibility and rankings on search engines.",
-      "price": 1999.99,
+      "price": 99.99,
       "instructor": "Okasha Ejaz",
       "isFeatured": true,
       "image": "/images/seo.webp",
