@@ -4,54 +4,61 @@ import { AnimatedTooltip } from "./ui/animated-tooltip";
 import { WavyBackground } from "./ui/wavy-background"
 
 const mentors = [
+  {
+    id: 1,
+    name: "ISMAIL AHMED SHAH",
+    designation: "Software Engineer",
+    image:
+    "https://avatars.githubusercontent.com/u/159659680?v=4",
+  },
+  {
+    id: 2,
+    name: "Okasha Ejaz",
+    designation: "Project Incharge",
+    image:
+      "https://media.licdn.com/dms/image/v2/D4D03AQEK6LkMORru_A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1707429703778?e=1734566400&v=beta&t=CVxiZRBRj4Hk41YjfqCA7Y5MTYweTBFEIGwGF_N_fIc",
+  },
     {
-      id: 1,
-      name: "ISMAIL AHMED SHAH",
-      designation: "Software Engineer",
-      image:
-        "https://avatars.githubusercontent.com/u/159659680?v=4",
-    },
-    {
-      id: 2,
-      name: "Atia Jabeen",
+      id: 3,
+      name: "Miss Atia Jabbar",
       designation: "Project Manager",
       image:
         "https://media.licdn.com/dms/image/v2/D4D03AQH_93NbHTM5Bg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1704015619605?e=1730937600&v=beta&t=pCe34VqVWp9RZjuQmVw30QnObnySVavt5OetBq64Aik",
     },
     {
-      id: 3,
-      name: "Naimal Salahh",
+      id: 4,
+      name: "Naimal Sallahh",
       designation: "Data Scientist",
       image:
         "https://media.licdn.com/dms/image/v2/D4D35AQFCeJa_1NgP6A/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1711379792917?e=1726167600&v=beta&t=Kpl3i-NwBNBAl5v9BmubFK6uBM72E5KtgFCqK8hgxMM",
     },
     {
-      id: 4,
+      id: 5,
       name: "Kanwal Mehmat",
       designation: "UX Designer",
       image:
         "https://media.licdn.com/dms/image/v2/D5603AQECmqtLHKz3sA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723986164893?e=1730937600&v=beta&t=Ho-OlYxgLm9B1JRNPiV1I0AiKVOytws2xE-_xSJf6RA",
     },
     {
-      id: 5,
+      id: 6,
       name: "Filza Sultana",
       designation: "Soap Developer",
       image:
         "https://media.licdn.com/dms/image/v2/D5635AQH9vokGnLa7Og/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1715079069759?e=1726167600&v=beta&t=sDhf5Ih2sUbGTS8p_Pmf8JdJWO8H357P8nImsQU6Fag",
     },
     {
-      id: 6,
-      name: "Zoya Shaikh",
+      id: 7,
+      name: "Hammad Abbasi",
       designation: "The Explorer",
       image:
-        "https://media.licdn.com/dms/image/v2/D5603AQESZNYWrDDsGA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1724789848879?e=1730937600&v=beta&t=cpfw_XuT2Ipd4f8o8RnVSCBShT850n8XD235nE3QR78",
+        "https://media.licdn.com/dms/image/v2/D4D35AQEZmWAZsRlL-w/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1723807039370?e=1729965600&v=beta&t=HTLwS8m0vjH4MyM7f-g66wlD_04tTAwye1VfXg_U0is",
     },
     {
-      id: 7,
-      name: "Okasha Khan",
-      designation: "Project Incharge",
+      id: 8,
+      name: "Furqan Khan",
+      designation: "Figma Expert",
       image:
-        "https://avatars.githubusercontent.com/u/159659680?v=4",
+        "https://media.licdn.com/dms/image/v2/D4E22AQHMrxOb-1ZetQ/feedshare-shrink_800/feedshare-shrink_800/0/1725797318028?e=1732147200&v=beta&t=ppwB_pabEh7csrUvBFAMDiGVNQ-O7uFPijD_14W5GXk",
     },
   ];
 
